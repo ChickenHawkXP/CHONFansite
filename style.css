@@ -1,0 +1,112 @@
+body
+{
+    height: "100%";
+    margin: 0;
+    background-color: black;
+}
+.bg 
+{
+  /* The image used */
+  background-image: url("http://static1.squarespace.com/static/57cebe2c03596e075fca5f24/57d812cae4fcb592c0bda5b5/58f78e9ba5790a2b63bc128a/1543518307902/Chon_Sumerian_JW_3673.jpg?format=1500w");
+  /* Full height */
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pageone
+{
+      /* The image used */
+  background-image: url("https://i.ytimg.com/vi/JQcp3UWQOmM/maxresdefault.jpg");
+  /* Full height */
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.biography
+{
+    text-align: center;
+    font-size:1em;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+}
+p
+{
+    color: white;
+    text-align: center;
+    font-family: serif; 
+    font-size: 1.75em;
+}
+h2
+{
+    padding: 1.2em;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    font-family: serif; 
+    font-size: 1.75em;
+}
+h2 a
+{
+    padding: 1.2em;
+}
+h4 
+{
+    color: white;
+    text-align: center;
+    font-size: 4em;
+    display: inline-block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img
+{
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+}
+.pics
+{
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+}
+.extlinks
+{
+    
+    color:white;
+    font-family: serif; 
+    font-size: 1.2em;
+    text-align: center;
+}
+table
+{
+    border-collapse: collapse;
+    background-color: rgb(95, 189, 226);
+}
+table,th,td
+{
+border: 1px solid black;
+text-align: center;
+color: black;
+font-size: 1.2em;
+}
+tr:nth-child(even)
+{
+ background-color: rgb(255, 255, 255)
+}
+table.center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+thover
+
+
+a:visited { text-decoration: none; color:white; }
+a:hover { text-decoration: none; color:blue;}
+a:hover, a:active { text-decoration: none; color:black }
